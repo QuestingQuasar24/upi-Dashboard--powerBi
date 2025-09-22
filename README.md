@@ -56,8 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions regarding this analysis, please feel free to reach out.
 
 - Email: aayushisinha2418@gmail.com
-- LinkedIn: www.linkedin.com/in/
-aayushi-sinha-080780286
+- LinkedIn: www.linkedin.com/in/aayushi-sinha-080780286
  🌐
 
 ## Acknowledgements 🙏
